@@ -1,1 +1,0 @@
-# firmware_update_automation
